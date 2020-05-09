@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cba5d93e182feb9ac9aaba3286722ba7",
+    "revision": "aa10c7759ea39644dab6544440ffc9c5",
     "url": "/Starwars-Database-Redux/index.html"
   },
   {
-    "revision": "fd74860a369ad9e62842",
+    "revision": "b6e9610b07ab4fbccd3d",
     "url": "/Starwars-Database-Redux/static/css/main.1b6d6689.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Starwars-Database-Redux/static/js/2.9dd616bb.chunk.js.LICENSE"
   },
   {
-    "revision": "fd74860a369ad9e62842",
-    "url": "/Starwars-Database-Redux/static/js/main.a8a7e5f3.chunk.js"
+    "revision": "b6e9610b07ab4fbccd3d",
+    "url": "/Starwars-Database-Redux/static/js/main.617c058f.chunk.js"
   },
   {
     "revision": "f8e7e7d75b18ea52595a",
