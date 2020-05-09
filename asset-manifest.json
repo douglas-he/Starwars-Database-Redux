@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starwars-database-redux/static/css/main.1b6d6689.chunk.css",
+    "main.js": "/starwars-database-redux/static/js/main.d3f81fbe.chunk.js",
+    "main.js.map": "/starwars-database-redux/static/js/main.d3f81fbe.chunk.js.map",
+    "runtime-main.js": "/starwars-database-redux/static/js/runtime-main.6f492b0c.js",
+    "runtime-main.js.map": "/starwars-database-redux/static/js/runtime-main.6f492b0c.js.map",
+    "static/js/2.84f42ed2.chunk.js": "/starwars-database-redux/static/js/2.84f42ed2.chunk.js",
+    "static/js/2.84f42ed2.chunk.js.map": "/starwars-database-redux/static/js/2.84f42ed2.chunk.js.map",
+    "index.html": "/starwars-database-redux/index.html",
+    "precache-manifest.644dfd2d2d2ef2cefd93c91186b98bd9.js": "/starwars-database-redux/precache-manifest.644dfd2d2d2ef2cefd93c91186b98bd9.js",
+    "service-worker.js": "/starwars-database-redux/service-worker.js",
+    "static/css/main.1b6d6689.chunk.css.map": "/starwars-database-redux/static/css/main.1b6d6689.chunk.css.map",
+    "static/js/2.84f42ed2.chunk.js.LICENSE": "/starwars-database-redux/static/js/2.84f42ed2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f492b0c.js",
+    "static/js/2.84f42ed2.chunk.js",
+    "static/css/main.1b6d6689.chunk.css",
+    "static/js/main.d3f81fbe.chunk.js"
+  ]
+}
